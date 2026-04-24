@@ -1,0 +1,2 @@
+# Stores requirements for the FinBot project
+requests>=2.31.0
